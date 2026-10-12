@@ -1,0 +1,10 @@
+project\sfud.o: ..\sfud\src\sfud.c
+project\sfud.o: ../sfud/inc/sfud.h
+project\sfud.o: ../sfud/inc/sfud_def.h
+project\sfud.o: D:\keil2.0\ARM\ARMCLANG\Bin\..\include\stdio.h
+project\sfud.o: D:\keil2.0\ARM\ARMCLANG\Bin\..\include\stdlib.h
+project\sfud.o: D:\keil2.0\ARM\ARMCLANG\Bin\..\include\stdint.h
+project\sfud.o: D:\keil2.0\ARM\ARMCLANG\Bin\..\include\stdbool.h
+project\sfud.o: ../sfud/inc/sfud_cfg.h
+project\sfud.o: ../sfud/inc/sfud_flash_def.h
+project\sfud.o: D:\keil2.0\ARM\ARMCLANG\Bin\..\include\string.h
